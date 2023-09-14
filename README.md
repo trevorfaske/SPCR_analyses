@@ -1,2 +1,2 @@
 # SPCR_analyses
-Sporobolus cryptandrus (sand dropseed) popgen analyses
+Bouteloua curtipendula (sideoats grama) analyses
